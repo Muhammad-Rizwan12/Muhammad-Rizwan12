@@ -8,6 +8,7 @@
 ## Work Experience
 **Machine Learning Intern @ ITSOLERA PVT LTD (_June 2024 - Present_)**
 - As an Artificial Intelligence Intern specializing in Machine Learning at ITSOLERA PVT LTD, I work with the AI team to create, develop, and apply machine learning algorithms and models. In addition to conducting research on cutting edge machine learning approaches, I help with data collecting, preparation, and analysis. My responsibilities include integrating AI solutions into current systems, installing and scaling up models for performance and scalability, and presenting findings to stakeholders. I use a variety of ML frameworks and Python to keep up with the most recent developments in the industry and to constantly improve my skills.
+
 **Python Intern @ Techno Spot (_July 2023 - October 2023_)**
 - During my internship at Company Name, I gained hands-on experience with Python programming and contributed to several projects. My primary responsibilities included:
      Script Development: Wrote and maintained Python scripts to automate routine tasks, helping improve team efficiency.
